@@ -1,0 +1,4 @@
+name,identifier,description,is_public
+Project D TEST,project-1,First test project,true
+Project E TEST,project-2,Second test project,false
+Project F TEST,project-3,Another project,true
